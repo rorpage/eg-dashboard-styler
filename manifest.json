@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "E-gineering Dashboard Styler",
+    "version": "0.0.1",
+    "description": "Custom styles for the Dashboard",
+    "content_scripts": [{
+        "css": [ "styles.css" ],
+        "js": [ "script.js" ],
+        "matches": [ "https://dashboard.e-gineering.com/*" ]
+    }]
+}
