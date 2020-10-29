@@ -3,6 +3,12 @@
     "name": "E-gineering Dashboard Styler",
     "version": "0.0.1",
     "description": "Custom styles for the Dashboard",
+    "icons": {
+        "16": "images/EG-Gear16.png",
+        "32": "images/EG-Gear32.png",
+        "48": "images/EG-Gear48.png",
+        "128": "images/EG-Gear128.png"
+      },
     "content_scripts": [{
         "css": [ "styles.css" ],
         "js": [ "script.js" ],
