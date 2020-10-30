@@ -3,6 +3,13 @@ This extension add's custom CSS and JavaScript to the ![E-G Logo](/images/EG-Gea
 
 Giving your eyes the extra releif they need! 👀
 
+## Load Extension Locally
+
+1. Open the Extension Management page by navigating to `chrome://extensions`.
+    * The Extension Management page can also be opened by clicking on the Chrome menu, hovering over `More Tools` then selecting `Extensions`.
+1. Enable Developer Mode by clicking the toggle switch next to `Developer mode`.
+1. Click the `LOAD UNPACKED` button and select the extension directory.
+
 ## Styling
 
 The following are imported withing the `script.js`:
