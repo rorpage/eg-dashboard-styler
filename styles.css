@@ -90,3 +90,15 @@ body {
 #Description {
     color: #444;
 }
+
+.header-content {
+    color: #ffffff
+}
+
+.dayEntryHeader {
+    color: #ffffff !important
+}
+
+.vacationAvailable{
+    color: #ffffff !important
+}
