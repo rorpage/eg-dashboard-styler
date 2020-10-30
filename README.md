@@ -1,7 +1,7 @@
 # ![E-G Logo](/images/EG-Gear32.png) Dashboard Styler
 This extension add's custom CSS and JavaScript to the ![E-G Logo](/images/EG-Gear16.png) Dashboard.
 
-Giving your eyes the extra releif they need! 👀
+Giving your eyes the extra relief they need! 👀
 
 ## Load Extension Locally
 
@@ -12,7 +12,7 @@ Giving your eyes the extra releif they need! 👀
 
 ## Styling
 
-The following are imported withing the `script.js`:
+The following are imported within the `script.js`:
 * Font's are `Roboto`
 * Icons from Material
 * Material Design Lite CSS and JS
