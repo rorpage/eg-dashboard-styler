@@ -1,6 +1,6 @@
 * {
-    /* all: unset !important; */
-    font-family: 'Roboto', Arial, sans-serif !important;
+  /* all: unset !important; */
+  font-family: 'Roboto', Arial, sans-serif !important;
 }
 
 /* body,
@@ -22,83 +22,87 @@ svg,
 } */
 
 body {
-    background-color: #242424 !important;
-    background-image: none !important;
-    border: none !important;
-    color: #ffffff !important;
+  background-color: #242424 !important;
+  background-image: none !important;
+  border: none !important;
+  color: #ffffff !important;
 }
 
-
 .content {
-    background-color: #424242;
-    color: #ffffff;
+  background-color: #424242;
+  color: #ffffff;
 }
 
 #app-content,
 #app-header,
 #timetracker-tabs,
 .ui-widget-header {
-    background-color: #242424 !important;
-    background-image: none !important;
-    border: none !important;
-    color: #ffffff !important;
+  background-color: #242424 !important;
+  background-image: none !important;
+  border: none !important;
+  color: #ffffff !important;
 }
 
 .even {
-    background-color: #4f7d9c !important;
+  background-color: #4f7d9c !important;
 }
 
 .odd {
-    background-color: #2b3f4d !important;
+  background-color: #2b3f4d !important;
 }
 
 .ui-widget-header {
-    margin: 0 !important;
-    padding-bottom: 8px !important;
-    padding-top: 8px !important;
+  margin: 0 !important;
+  padding-bottom: 8px !important;
+  padding-top: 8px !important;
 }
 
 .ui-dialog-titlebar {
-    background-color: #2b3f4d !important;
-    background-image: none !important;
-    border: none !important;
-    color: #ffffff !important;
-    font-weight: 300 !important;
+  background-color: #2b3f4d !important;
+  background-image: none !important;
+  border: none !important;
+  color: #ffffff !important;
+  font-weight: 300 !important;
 }
 
 #module-container {
-    padding: 0 !important;
+  padding: 0 !important;
 }
 
 .ui-corner-all {
-    border-bottom-left-radius: 0 !important;
-    border-bottom-right-radius: 0 !important;
-    border-end-end-radius: 0 !important;
-    border-end-start-radius: 0 !important;
-    border-start-end-radius: 0 !important;
-    border-start-start-radius: 0 !important;
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  border-end-end-radius: 0 !important;
+  border-end-start-radius: 0 !important;
+  border-start-end-radius: 0 !important;
+  border-start-start-radius: 0 !important;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
 }
 
 .ui-widget-content {
-    box-shadow: 0 3px 5px -1px rgba(0,0,0,.2), 0 5px 8px 0 rgba(0,0,0,.14), 0 1px 14px 0 rgba(0,0,0,.12) !important;
-    border: none !important;
-    color: #ffffff !important;
+  box-shadow: 0 3px 5px -1px rgba(0, 0, 0, 0.2), 0 5px 8px 0 rgba(0, 0, 0, 0.14),
+    0 1px 14px 0 rgba(0, 0, 0, 0.12) !important;
+  border: none !important;
+  color: #ffffff !important;
 }
 
 #Description {
-    color: #444;
+  color: #444;
 }
 
 .header-content {
-    color: #ffffff
+  color: #ffffff;
 }
 
 .dayEntryHeader {
-    color: #ffffff !important
+  color: #ffffff !important;
 }
 
-.vacationAvailable{
-    color: #ffffff !important
+.vacationAvailable {
+  color: #ffffff !important;
+}
+
+#timelog-summary-container > .content > .button-container {
+  color: black;
 }
